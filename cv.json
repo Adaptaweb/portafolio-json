@@ -1,66 +1,66 @@
 {
     "basics": {
-      "name": "Alejandro Esteban Tamayo Echavarría",
-      "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+      "name": "Alejandro Tamayo Echavarría",
+      "label": "Full Stack Developer con más de 8 años de experiencia & Soporte dedicado para sistemas informáticos",
       "image": "public/me.webp",
-      "email": "miduga@gmail.com",
-      "phone": "+34 688888888",
+      "email": "a.tamayo.web@gmail.com",
+      "phone": "+56 9 71977092",
       "url": "https://midu.dev",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "summary": "Ingeniero en Informática con 8 años de experiencia en desarrollo de software utilizando PHP, MySQL y MongoDB, así como en el diseño de microservicios, creación de API, implementación de Docker y control de versiones con Git. Me apasiona aprender, innovar y mantenerme al día con las últimas tecnologías. Comprometido con el crecimiento profesional y personal, estoy siempre en busca de nuevas oportunidades para mejorar y crecer en mi carrera.",
       "location": {
         "address": "",
-        "postalCode": "08820",
-        "city": "el Prat de Llobregat",
-        "countryCode": "ES",
-        "region": "España"
+        "postalCode": "1390000",
+        "city": "Calama",
+        "countryCode": "CL",
+        "region": "Chile"
       },
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
+          "username": "Alejandro Tamayo Echavarría",
+          "url": "https://linkedin.com/in/alejandro-tamayo-e"
         },
         {
           "network": "X",
-          "username": "midudev",
-          "url": "https://x.com/midudev"
+          "username": "AeTe",
+          "url": "https://x.com/AeteXd"
         },
         {
           "network": "GitHub",
-          "username": "midudev",
-          "url": "https://github.com/midudev"
+          "username": "Adaptaweb",
+          "url": "https://github.com/Adaptaweb"
         }
       ]
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
+        "name": "Workmate",
+        "position": "Ingeniero en Terreno • Desarrollador • Soporte Técnico",
+        "url": "https://workmate.cl",
+        "startDate": "2017-06-01",
         "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "summary": "Desarrollo y mantención de sistemas para Control de Acceso, Casinos y Sistemas de Acreditación y Control Laboral • Soporte técnico en terreno y remoto para clientes de la empresa. • Diseño de interfaces de usuario y experiencia de usuario • Creación de API • Implementación de Docker y control de versiones con Git",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
+        "name": "Gestpyme",
+        "position": "Desarrollador FULL STACK",
+        "url": "https://www.gestpyme.cl/",
         "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+        "endDate": "2017-09-01",
+        "summary": "Desarrollo Full-stack de software de escritorio, web y aplicaciones móviles, Principalmente en el lenguaje de programación Wlanguage (Windev, Webdev y Windev Mobile de PC SOFT).",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
+        "name": "Aovo Andes",
+        "position": "Especialista en soporte para tecnología",
+        "startDate": "2015-03-01",
         "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "summary": "Entrega de servicio y Soporte técnico, además de atención al cliente en telefonía y computación en sucursal de Falabella, Calama.",
         "highlights": [
           "Started the company"
         ]
