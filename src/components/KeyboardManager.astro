@@ -60,7 +60,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
   Pulsa <kbd>Ctrl</kbd> + <kbd>K</kbd> para abrir la ventana de comandos.
 </footer>
 
-<ninja-keys
+<ninja-keys class="no-print"
   data-info={JSON.stringify(profilesInfo)}
   placeholder="Buscar Comando"
   hideBreadcrums></ninja-keys>
@@ -70,7 +70,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
   const ninja = document.querySelector("ninja-keys");
   if (ninja != null) {
     const info = ninja.getAttribute("data-info") ?? "[]";
-    const parsedInfo = JSON.parse(info) as Info[];
+    const parsedInfo = JSON.parse(info);
     const data = parsedInfo.map((item: any) => {
       return {
         ...item,
@@ -138,4 +138,5 @@ const profilesInfo = profiles.map(({ network, url }) => {
     padding: 2px 5px;
     font-size: 0.9em;
   }
+  
 </style>

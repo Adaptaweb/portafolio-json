@@ -84,7 +84,7 @@
       "institution": "Universidad Tecnológica de Chile INACAP",
       "url": "https://portales.inacap.cl/sobre-nosotros/universidad/",
       "area": "Grado en Ingeniería, Ingeniería informática",
-      "studyType": "Bachelor",
+      "studyType": "Universitario",
       "startDate": "2012-01-01",
       "endDate": "2015-01-01",
       "score": "4.0",
@@ -242,6 +242,16 @@
         "Desarrollo de Software",
         "Colaboración",
         "Agile"
+      ]
+    }
+    ,
+    {
+      "name": "C#",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Lenguaje de Programación"
       ]
     }
   ],
