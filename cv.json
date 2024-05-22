@@ -156,26 +156,7 @@
         "Diseño Responsive"
       ]
     },
-    {
-      "name": "TypeScript",
-      "level": "Medium",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
-    },
+   
     {
       "name": "MySQL",
       "level": "Avanzado",
