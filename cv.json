@@ -5,8 +5,8 @@
     "image": "/me.webp",
     "email": "a.tamayo.web@gmail.com",
     "phone": "+56 9 71977092",
-    "url": "https://midu.dev",
-    "summary": "Ingeniero en Informática con 8 años de experiencia en desarrollo de software utilizando PHP, MySQL y MongoDB, así como en el diseño de microservicios, creación de API, implementación de Docker y control de versiones con Git. Me apasiona aprender, innovar y mantenerme al día con las últimas tecnologías. Comprometido con el crecimiento profesional y personal, estoy siempre en busca de nuevas oportunidades para mejorar y crecer en mi carrera.",
+    "url": "https://portfolio-alejandro-tamayo.vercel.app/",
+    "summary": "Ingeniero en Informática con 8 años de experiencia en desarrollo de software, especializado en PHP, MySQL y MongoDB. Tengo un sólido historial en el diseño de microservicios, creación de APIs, implementación de Docker y control de versiones con Git. Mi experiencia incluye tanto desarrollo en oficina como soporte técnico en terreno, trabajando directamente con clientes para asegurar la implementación y mantenimiento eficiente de sistemas. Me apasiona aprender, innovar y mantenerme actualizado con las últimas tecnologías. Comprometido con el crecimiento profesional y personal, siempre busco nuevas oportunidades para mejorar y avanzar en mi carrera.",
     "location": {
       "address": "",
       "postalCode": "1390000",
@@ -29,17 +29,22 @@
         "network": "GitHub",
         "username": "Adaptaweb",
         "url": "https://github.com/Adaptaweb"
+      },
+      {
+        "network": "WorldMap",
+        "username": "Alejandro Tamayo Echavarría",
+        "url": "https://portfolio-alejandro-tamayo.vercel.app/"
       }
     ]
   },
   "work": [
     {
       "name": "Workmate",
-      "position": "Ingeniero en Terreno • Desarrollador • Soporte Técnico",
+      "position": "Ingeniero en Terreno • Desarrollador • Soporte Técnico • Remoto/Terreno",
       "url": "https://workmate.cl",
       "startDate": "2017-06-01",
       "endDate": null,
-      "summary": "Desarrollo y mantención de sistemas para Control de Acceso, Casinos y Sistemas de Acreditación y Control Laboral • Soporte técnico en terreno y remoto para clientes de la empresa. • Diseño de interfaces de usuario y experiencia de usuario • Creación de API • Implementación de Docker y control de versiones con Git",
+      "summary": "Especialista en el desarrollo y mantención de sistemas de Control de Acceso, Casinos y Sistemas de Acreditación y Control Laboral, con experiencia en todas las divisiones de Codelco Chile.\nMis responsabilidades incluyen:\nDesarrollo de sistemas de Control de Acceso.\nSoporte técnico en terreno y remoto para optimizar sistemas.\nDiseño de UI/UX: Creación de interfaces intuitivas.\nDesarrollo de APIs: Integración y comunicación de sistemas.\nImplementación de Docker y Git: Creación de entornos consistentes y gestión de versiones.\nGestión y comunicación con clientes para asegurar la satisfacción y cumplimiento de requisitos.",
       "highlights": [
         "Started the company"
       ]
