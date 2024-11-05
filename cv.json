@@ -239,6 +239,25 @@
         "Backend",
         "Lenguaje de Programación"
       ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Lenguaje de Programación"
+      ]
+    }
+    ,
+    {
+      "name": "Python",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Lenguaje de Programación"
+      ]
     }
   ],
   "languages": [
